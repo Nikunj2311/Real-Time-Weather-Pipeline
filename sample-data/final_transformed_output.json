@@ -1,0 +1,52 @@
+Weather Data: {
+   "name": "Ghaziabad",
+   "region": "Uttar Pradesh",
+   "country": "India",
+   "lat": 28.6667,
+   "lon": 77.4333,
+   "localtime": "2025-11-02 02:35",
+   "temp_c": 20.3,
+   "is_day": 0,
+   "condition_text": "Overcast",
+   "condition_icon": "//cdn.weatherapi.com/weather/64x64/night/122.png",
+   "wind_kph": 7.6,
+   "wind_degree": 328,
+   "wind_dir": "NNW",
+   "pressure_in": 29.85,
+   "precip_in": 0.0,
+   "humidity": 73,
+   "cloud": 0,
+   "feelslike_c": 20.3,
+   "uv": 0.0,
+   "air_quality": {
+      "co": 995.85,
+      "no2": 46.75,
+      "o3": 77.0,
+      "so2": 29.95,
+      "pm2_5": 98.85,
+      "pm10": 351.95,
+      "us-epa-index": 4,
+      "gb-defra-index": 10
+   },
+   "alerts": [],
+   "forecast": [
+      {
+         "date": "2025-11-02",
+         "maxtemp_c": 32.6,
+         "mintemp_c": 22.6,
+         "condition": "Sunny"
+      },
+      {
+         "date": "2025-11-03",
+         "maxtemp_c": 32.8,
+         "mintemp_c": 22.5,
+         "condition": "Sunny"
+      },
+      {
+         "date": "2025-11-04",
+         "maxtemp_c": 29.2,
+         "mintemp_c": 21.8,
+         "condition": "Patchy rain nearby"
+      }
+   ]
+}

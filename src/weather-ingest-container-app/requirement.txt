@@ -1,0 +1,4 @@
+requests
+azure-identity
+azure-eventhub
+azure-keyvault-secrets
