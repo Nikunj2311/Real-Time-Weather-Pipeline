@@ -155,6 +155,14 @@ docker run --env-file .env weather-pipeline:latest
 
 * Deploy dashboard to Power BI Service with live refresh
 
+## 🧠 Project Learnings & Challenges
+
+- Learned how to connect Azure Container Apps securely with Event Hub and Key Vault.  
+- Understood how **region availability and subscription type** affect deployment (e.g., Function App was restricted in student plan).  
+- Explored **cost optimization** by using Container Apps more than databricks.  
+- Implemented secure API key handling using Azure Key Vault and Managed Identity.
+
+
 ## 👨‍💻 Author
 
 |Developed by: Nikunj Bansal|
