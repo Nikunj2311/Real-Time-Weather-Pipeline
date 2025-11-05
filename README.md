@@ -128,7 +128,13 @@ WEATHER_API_KEY=<your_api_key>
 All secrets are securely managed by Azure Key Vault in the actual deployment.
 
 ## 📸 Screenshots
-![Event Hub](./screenshots/eventhub.png)	![Eventstream](./screenshots/eventstream.png)	![Power BI Dashboard](./screenshots/power-bi-dashboard.png)
+### 🌀 Event Hub
+![Event Hub](./screenshots/eventhub.png)	
+### 🌊 Eventstream
+![Eventstream](./screenshots/eventstream.png)	
+### 📊 Power BI Dashboard
+![Power BI Dashboard](./screenshots/power-bi-dashboard.png)
+### 🖼️ Architecture Diagram
 ![Architecture Diagram](./architecture/weather-pipeline-architecture-Page-1.drawio.png)
 	
 	
