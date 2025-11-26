@@ -1,4 +1,4 @@
-# 🌦️ Real-Time Weather Data Streaming Pipeline on Azur
+# 🌦️ Real-Time Weather Data Streaming Pipeline on Azure
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
 ![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python)
 ![Databricks](https://img.shields.io/badge/Databricks-Data_Processing-orange?logo=databricks)
